@@ -1,0 +1,15 @@
+//{
+//  "exclude": [
+//    "**/bin",
+//    "**/bower_components",
+//    "**/jspm_packages",
+//    "**/node_modules",
+//    "**/obj",
+//    "**/platforms"
+//  ]
+//}
+{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=VARSHITHA;Database=Student Information System;User Id=Varshitha;Password=Varshitha@123;TrustServerCertificate=True"
+  }
+}
